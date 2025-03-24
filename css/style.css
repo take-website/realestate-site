@@ -352,6 +352,7 @@ select::-ms-expand {
   font-weight: 500;
   line-height: 4;
   letter-spacing: 0.5em;
+  margin-right: 60px;
 }
 @media screen and (max-width: 768px) {
   .about__text {

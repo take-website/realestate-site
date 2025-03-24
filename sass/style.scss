@@ -176,6 +176,7 @@
   margin-inline: auto;
   width: 75%;
   height:500px;
+  column-gap: 60px;
 
   @include mq("md") {
     flex-direction: row;
